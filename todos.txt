@@ -1,0 +1,9 @@
+clean
+go out
+shower
+adad
+write
+buy camera
+Make soup.
+Make pizza
+Clean the keyboard.
