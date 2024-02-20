@@ -7,3 +7,4 @@ buy camera
 Make soup.
 Make pizza
 Clean the keyboard.
+Master Python!
