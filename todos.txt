@@ -2,9 +2,11 @@ clean
 go out
 shower
 adad
-write
-buy camera
+Go Out.buy camera
 Make soup.
-Make pizza
-Clean the keyboard.
-Master Python!
+Make ducan
+DavajMaster Python!
+My newest todo.
+And lastly
+And lastly
+DrMr
