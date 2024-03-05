@@ -1,4 +1,0 @@
-go out
-Make soup.
-My newest todo.
-And lastly
